@@ -21,7 +21,7 @@ https://github.com/sivoplyas/example-teamcity
 ![666](https://github.com/user-attachments/assets/b4bb5725-fef7-4d8c-8286-a8586a9d42a8)
 ## 12, 13 Убедитесь, что сборка самостоятельно запустилась, тесты прошли успешно.
 ![12](https://github.com/user-attachments/assets/e386caa7-fc95-4dbc-bdfd-dcd1c65fe17c)
-14, 15, 16,17,18 Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
+## 14, 15, 16,17,18 Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
 ![13](https://github.com/user-attachments/assets/e1013253-4a02-4890-a7cc-43c9fdab9ed1)
 ![14](https://github.com/user-attachments/assets/ea9ce144-7317-4d09-839e-d2937d530a34)
 ![15](https://github.com/user-attachments/assets/5e014cc7-f292-4702-bb6b-674b7394f8f7)
