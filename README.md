@@ -23,3 +23,5 @@ https://github.com/sivoplyas/example-teamcity
 ![12](https://github.com/user-attachments/assets/e386caa7-fc95-4dbc-bdfd-dcd1c65fe17c)
 ![13](https://github.com/user-attachments/assets/e1013253-4a02-4890-a7cc-43c9fdab9ed1)
 ![14](https://github.com/user-attachments/assets/ea9ce144-7317-4d09-839e-d2937d530a34)
+![15](https://github.com/user-attachments/assets/5e014cc7-f292-4702-bb6b-674b7394f8f7)
+![16](https://github.com/user-attachments/assets/fbb7ea57-0e2c-40ea-b628-acb4e8cd3b2b)
